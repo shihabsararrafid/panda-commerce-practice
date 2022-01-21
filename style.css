@@ -1,0 +1,50 @@
+.navigation{
+    height: 80px;
+}
+.banner{
+    height: 100vh;
+}
+.banner-part{
+    background-color:#fceae8 ;
+}
+.banner-image{
+    height: 50%;
+}
+.collection-img{
+    width: 100px;
+}
+.nested-rows{
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+#collection-shoes{
+    background-color: blue;
+}
+#collection-watch{
+    background-color:orange ;
+}
+#collection-bag{
+    background-color: orchid;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);;
+}
+.svg{
+    float: left;
+}
+
+.shoe{
+    box-shadow: 0 0 3px 3px rgba(128, 128, 128, 0.089);
+}
+.subscription{
+    height: 50vh;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.footer-part{
+    margin-top: 80px;
+}
+.carousel-button{
+    font-weight: bold;
+}
+
